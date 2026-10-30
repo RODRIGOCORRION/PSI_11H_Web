@@ -9,3 +9,8 @@ Este repositorio foi cirado no Âmbito da disciplina de PSI
 - Compreender o controlo de versões. 
 - Aprender a utilizar o GitHub.
 - Colaborar no desenvolvimento de projetos.
+
+## Sugestão de melhoria
+- Proposta: melhorar a documentação do projeto.
+- Contributo: acrescentar informação útil para os utilizadores.
+- Autor: (o teu nome), 11.º H
